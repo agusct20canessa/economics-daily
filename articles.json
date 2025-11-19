@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "1",
+    "title": "FMI: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T19:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "2",
+    "title": "BCE: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T19:21:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "3",
+    "title": "Banco Mundial: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T18:51:43.214487Z",
+    "source": "FMI",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "4",
+    "title": "Fed: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T18:21:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "5",
+    "title": "Agencia Internacional: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T17:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "6",
+    "title": "Bloomberg: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T17:21:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "7",
+    "title": "Fed reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-19T16:51:43.214487Z",
+    "source": "Reuters",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "8",
+    "title": "Agencia Internacional reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-19T16:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "9",
+    "title": "FMI: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T15:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "10",
+    "title": "Banco Mundial: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T15:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "11",
+    "title": "Bloomberg: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T14:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "12",
+    "title": "Banco Mundial reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-19T14:21:43.214487Z",
+    "source": "BCE",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "13",
+    "title": "Financial Times: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T13:51:43.214487Z",
+    "source": "Fed",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "14",
+    "title": "Agencia Internacional: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T13:21:43.214487Z",
+    "source": "Fed",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "15",
+    "title": "BCE: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T12:51:43.214487Z",
+    "source": "Reuters",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "16",
+    "title": "Banco Mundial: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T12:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "17",
+    "title": "OCDE: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T11:51:43.214487Z",
+    "source": "FMI",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "18",
+    "title": "Bloomberg reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-19T11:21:43.214487Z",
+    "source": "Reuters",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "19",
+    "title": "Financial Times reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-19T10:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "20",
+    "title": "Financial Times: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T10:21:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "21",
+    "title": "Reuters: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T09:51:43.214487Z",
+    "source": "Fed",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "22",
+    "title": "Fed: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T09:21:43.214487Z",
+    "source": "BCE",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "23",
+    "title": "Reuters: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T08:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "24",
+    "title": "Banco Mundial reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-19T08:21:43.214487Z",
+    "source": "Reuters",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "25",
+    "title": "BCE: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T07:51:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "26",
+    "title": "Reuters: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T07:21:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "27",
+    "title": "Reuters: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T06:51:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "28",
+    "title": "Banco Mundial reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-19T06:21:43.214487Z",
+    "source": "Fed",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "29",
+    "title": "Fed reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-19T05:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "30",
+    "title": "Fed reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-19T05:21:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "31",
+    "title": "Banco Mundial: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T04:51:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "32",
+    "title": "Banco Mundial reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-19T04:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "33",
+    "title": "Fed reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-19T03:51:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "34",
+    "title": "Agencia Internacional: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T03:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "35",
+    "title": "Agencia Internacional: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T02:51:43.214487Z",
+    "source": "FMI",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "36",
+    "title": "Fed: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T02:21:43.214487Z",
+    "source": "FMI",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "37",
+    "title": "Bloomberg Economics: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T01:51:43.214487Z",
+    "source": "BCE",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "38",
+    "title": "Reuters: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T01:21:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "39",
+    "title": "Bloomberg: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T00:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "40",
+    "title": "Bloomberg Economics: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-19T00:21:43.214487Z",
+    "source": "FMI",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "41",
+    "title": "Agencia Internacional reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T23:51:43.214487Z",
+    "source": "FMI",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "42",
+    "title": "Banco Mundial: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T23:21:43.214487Z",
+    "source": "BCE",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "43",
+    "title": "Reuters reporta movimientos en PIB que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T22:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "44",
+    "title": "Fed: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T22:21:43.214487Z",
+    "source": "Fed",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "45",
+    "title": "Agencia Internacional reporta movimientos en PIB que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T21:51:43.214487Z",
+    "source": "Fed",
+    "body": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "46",
+    "title": "Fed: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T21:21:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "47",
+    "title": "Bloomberg reporta movimientos en banca central que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T20:51:43.214487Z",
+    "source": "Financial Times",
+    "body": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "48",
+    "title": "Reuters: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T20:21:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "49",
+    "title": "OCDE reporta movimientos en banca central que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T19:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "50",
+    "title": "BCE: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T19:21:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "51",
+    "title": "Financial Times reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T18:51:43.214487Z",
+    "source": "FMI",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "52",
+    "title": "Fed: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T18:21:43.214487Z",
+    "source": "FMI",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "53",
+    "title": "FMI reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T17:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "54",
+    "title": "Bloomberg Economics reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T17:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "55",
+    "title": "BCE reporta movimientos en banca central que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T16:51:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "56",
+    "title": "OCDE reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T16:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "57",
+    "title": "Reuters: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T15:51:43.214487Z",
+    "source": "Reuters",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "58",
+    "title": "Bloomberg reporta movimientos en banca central que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T15:21:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "59",
+    "title": "Bloomberg Economics: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T14:51:43.214487Z",
+    "source": "Fed",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "60",
+    "title": "Reuters: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T14:21:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "61",
+    "title": "FMI reporta movimientos en PIB que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T13:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "62",
+    "title": "OCDE reporta movimientos en inflaci\u00f3n que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T13:21:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "63",
+    "title": "Bloomberg reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T12:51:43.214487Z",
+    "source": "FMI",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "64",
+    "title": "Bloomberg: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T12:21:43.214487Z",
+    "source": "Fed",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "65",
+    "title": "Fed: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T11:51:43.214487Z",
+    "source": "BCE",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "66",
+    "title": "BCE reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T11:21:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "67",
+    "title": "Banco Mundial: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T10:51:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "68",
+    "title": "BCE: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T10:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "69",
+    "title": "Banco Mundial: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T09:51:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "70",
+    "title": "Financial Times reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T09:21:43.214487Z",
+    "source": "OCDE",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "71",
+    "title": "Reuters reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T08:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "72",
+    "title": "Agencia Internacional reporta movimientos en PIB que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T08:21:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "73",
+    "title": "BCE: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T07:51:43.214487Z",
+    "source": "Reuters",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "74",
+    "title": "Reuters reporta movimientos en tipos de inter\u00e9s que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T07:21:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "75",
+    "title": "Fed: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T06:51:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "76",
+    "title": "BCE reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T06:21:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "77",
+    "title": "FMI: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T05:51:43.214487Z",
+    "source": "Reuters",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "78",
+    "title": "Fed reporta movimientos en inflaci\u00f3n que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T05:21:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "79",
+    "title": "Financial Times reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T04:51:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "80",
+    "title": "Banco Mundial reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T04:21:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "81",
+    "title": "Agencia Internacional: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T03:51:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "82",
+    "title": "FMI: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T03:21:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "83",
+    "title": "OCDE: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T02:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "84",
+    "title": "Banco Mundial reporta movimientos en inflaci\u00f3n que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T02:21:43.214487Z",
+    "source": "FMI",
+    "body": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "85",
+    "title": "OCDE reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T01:51:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "86",
+    "title": "FMI reporta movimientos en tipos de inter\u00e9s que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T01:21:43.214487Z",
+    "source": "BCE",
+    "body": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "87",
+    "title": "BCE: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-18T00:51:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "88",
+    "title": "Financial Times reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-18T00:21:43.214487Z",
+    "source": "Fed",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "89",
+    "title": "Reuters: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T23:51:43.214487Z",
+    "source": "BCE",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "90",
+    "title": "Bloomberg reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T23:21:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "91",
+    "title": "Reuters: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T22:51:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "92",
+    "title": "FMI reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T22:21:43.214487Z",
+    "source": "FMI",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "93",
+    "title": "BCE: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T21:51:43.214487Z",
+    "source": "Reuters",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "94",
+    "title": "Fed reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T21:21:43.214487Z",
+    "source": "FMI",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "95",
+    "title": "BCE reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T20:51:43.214487Z",
+    "source": "OCDE",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "96",
+    "title": "Agencia Internacional reporta movimientos en tipos de inter\u00e9s que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T20:21:43.214487Z",
+    "source": "Fed",
+    "body": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "97",
+    "title": "BCE: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T19:51:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "98",
+    "title": "Bloomberg Economics: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T19:21:43.214487Z",
+    "source": "BCE",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "99",
+    "title": "Reuters reporta movimientos en PIB que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T18:51:43.214487Z",
+    "source": "Fed",
+    "body": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "100",
+    "title": "Bloomberg Economics: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T18:21:43.214487Z",
+    "source": "Fed",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "101",
+    "title": "OCDE reporta movimientos en banca central que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T17:51:43.214487Z",
+    "source": "Reuters",
+    "body": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "102",
+    "title": "Bloomberg Economics: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T17:21:43.214487Z",
+    "source": "BCE",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "103",
+    "title": "Agencia Internacional reporta movimientos en banca central que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T16:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "104",
+    "title": "Fed reporta movimientos en inflaci\u00f3n que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T16:21:43.214487Z",
+    "source": "FMI",
+    "body": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "105",
+    "title": "Banco Mundial reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T15:51:43.214487Z",
+    "source": "Reuters",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "106",
+    "title": "Bloomberg Economics reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T15:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "107",
+    "title": "FMI reporta movimientos en PIB que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T14:51:43.214487Z",
+    "source": "Financial Times",
+    "body": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "108",
+    "title": "Banco Mundial reporta movimientos en banca central que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T14:21:43.214487Z",
+    "source": "BCE",
+    "body": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "109",
+    "title": "Agencia Internacional: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T13:51:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "110",
+    "title": "OCDE: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T13:21:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "111",
+    "title": "Fed: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T12:51:43.214487Z",
+    "source": "FMI",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "112",
+    "title": "OCDE reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T12:21:43.214487Z",
+    "source": "FMI",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "113",
+    "title": "Reuters: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T11:51:43.214487Z",
+    "source": "Fed",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "114",
+    "title": "BCE reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T11:21:43.214487Z",
+    "source": "Fed",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "115",
+    "title": "Banco Mundial: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T10:51:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "116",
+    "title": "Bloomberg: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T10:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "117",
+    "title": "Financial Times reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T09:51:43.214487Z",
+    "source": "Fed",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "118",
+    "title": "Financial Times: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T09:21:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "119",
+    "title": "Banco Mundial: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T08:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "120",
+    "title": "OCDE: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T08:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "121",
+    "title": "Banco Mundial reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T07:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "122",
+    "title": "Banco Mundial reporta movimientos en banca central que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T07:21:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "123",
+    "title": "Banco Mundial reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T06:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "124",
+    "title": "OCDE reporta movimientos en PIB que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T06:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "125",
+    "title": "Financial Times reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T05:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "126",
+    "title": "Bloomberg Economics: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T05:21:43.214487Z",
+    "source": "Fed",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "127",
+    "title": "Financial Times reporta movimientos en tipos de inter\u00e9s que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T04:51:43.214487Z",
+    "source": "OCDE",
+    "body": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "128",
+    "title": "Banco Mundial: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T04:21:43.214487Z",
+    "source": "Fed",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "129",
+    "title": "Reuters: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T03:51:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "130",
+    "title": "Bloomberg Economics reporta movimientos en tipos de inter\u00e9s que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T03:21:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "131",
+    "title": "Reuters: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T02:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "132",
+    "title": "Banco Mundial: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T02:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "133",
+    "title": "FMI reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T01:51:43.214487Z",
+    "source": "FMI",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "134",
+    "title": "Reuters: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-17T01:21:43.214487Z",
+    "source": "Fed",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "135",
+    "title": "Fed reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T00:51:43.214487Z",
+    "source": "BCE",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "136",
+    "title": "Financial Times reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-17T00:21:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "137",
+    "title": "Bloomberg reporta movimientos en PIB que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T23:51:43.214487Z",
+    "source": "Fed",
+    "body": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "138",
+    "title": "Banco Mundial: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T23:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "139",
+    "title": "Financial Times: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T22:51:43.214487Z",
+    "source": "Fed",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "140",
+    "title": "Bloomberg: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T22:21:43.214487Z",
+    "source": "Fed",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "141",
+    "title": "Agencia Internacional reporta movimientos en inflaci\u00f3n que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T21:51:43.214487Z",
+    "source": "Financial Times",
+    "body": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "142",
+    "title": "Fed reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T21:21:43.214487Z",
+    "source": "BCE",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "143",
+    "title": "FMI reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T20:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "144",
+    "title": "Fed: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T20:21:43.214487Z",
+    "source": "FMI",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "145",
+    "title": "Fed reporta movimientos en inflaci\u00f3n que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T19:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "146",
+    "title": "Bloomberg reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T19:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "147",
+    "title": "BCE reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T18:51:43.214487Z",
+    "source": "Fed",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "148",
+    "title": "FMI: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T18:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "149",
+    "title": "Reuters: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T17:51:43.214487Z",
+    "source": "BCE",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "150",
+    "title": "Banco Mundial: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T17:21:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "151",
+    "title": "OCDE reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T16:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "152",
+    "title": "Reuters reporta movimientos en inflaci\u00f3n que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T16:21:43.214487Z",
+    "source": "BCE",
+    "body": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "153",
+    "title": "BCE: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T15:51:43.214487Z",
+    "source": "BCE",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "154",
+    "title": "Banco Mundial: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T15:21:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "155",
+    "title": "BCE: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T14:51:43.214487Z",
+    "source": "BCE",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "156",
+    "title": "Bloomberg Economics reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T14:21:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "157",
+    "title": "FMI: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T13:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "158",
+    "title": "Reuters reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T13:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "159",
+    "title": "Bloomberg: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T12:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "160",
+    "title": "Financial Times reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T12:21:43.214487Z",
+    "source": "FMI",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "161",
+    "title": "Financial Times: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T11:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "162",
+    "title": "Reuters: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T11:21:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "163",
+    "title": "Financial Times reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T10:51:43.214487Z",
+    "source": "OCDE",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "164",
+    "title": "Fed: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T10:21:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "165",
+    "title": "Bloomberg Economics: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T09:51:43.214487Z",
+    "source": "FMI",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "166",
+    "title": "Financial Times reporta movimientos en banca central que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T09:21:43.214487Z",
+    "source": "BCE",
+    "body": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "167",
+    "title": "Bloomberg reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T08:51:43.214487Z",
+    "source": "BCE",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "168",
+    "title": "FMI reporta movimientos en tipos de inter\u00e9s que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T08:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "169",
+    "title": "Bloomberg: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T07:51:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "170",
+    "title": "OCDE reporta movimientos en banca central que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T07:21:43.214487Z",
+    "source": "Fed",
+    "body": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "171",
+    "title": "Banco Mundial reporta movimientos en PIB que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T06:51:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "172",
+    "title": "OCDE: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T06:21:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "173",
+    "title": "Fed: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T05:51:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "174",
+    "title": "Bloomberg: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T05:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "175",
+    "title": "Bloomberg: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T04:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "176",
+    "title": "Bloomberg Economics: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T04:21:43.214487Z",
+    "source": "FMI",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "177",
+    "title": "Bloomberg: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T03:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "178",
+    "title": "Reuters reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T03:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "179",
+    "title": "Fed: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T02:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "180",
+    "title": "Reuters reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T02:21:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "181",
+    "title": "Banco Mundial reporta movimientos en banca central que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T01:51:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "182",
+    "title": "BCE reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T01:21:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "183",
+    "title": "FMI: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-16T00:51:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "184",
+    "title": "BCE reporta movimientos en PIB que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-16T00:21:43.214487Z",
+    "source": "BCE",
+    "body": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "185",
+    "title": "Financial Times: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T23:51:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "186",
+    "title": "Agencia Internacional: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T23:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "187",
+    "title": "Reuters reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T22:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "188",
+    "title": "Reuters: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T22:21:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "189",
+    "title": "FMI: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T21:51:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "190",
+    "title": "OCDE: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T21:21:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "191",
+    "title": "Bloomberg Economics: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T20:51:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "192",
+    "title": "Banco Mundial: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T20:21:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "193",
+    "title": "Banco Mundial: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T19:51:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "194",
+    "title": "Financial Times: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T19:21:43.214487Z",
+    "source": "BCE",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "195",
+    "title": "Bloomberg reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T18:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "196",
+    "title": "OCDE reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T18:21:43.214487Z",
+    "source": "Fed",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "197",
+    "title": "Financial Times reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T17:51:43.214487Z",
+    "source": "Fed",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "198",
+    "title": "Financial Times reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T17:21:43.214487Z",
+    "source": "BCE",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "199",
+    "title": "Fed: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T16:51:43.214487Z",
+    "source": "Reuters",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "200",
+    "title": "Agencia Internacional: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T16:21:43.214487Z",
+    "source": "BCE",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "201",
+    "title": "Financial Times: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T15:51:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "202",
+    "title": "Fed reporta movimientos en banca central que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T15:21:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "203",
+    "title": "FMI reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T14:51:43.214487Z",
+    "source": "BCE",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "204",
+    "title": "Fed reporta movimientos en inflaci\u00f3n que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T14:21:43.214487Z",
+    "source": "Fed",
+    "body": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "205",
+    "title": "Agencia Internacional reporta movimientos en banca central que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T13:51:43.214487Z",
+    "source": "BCE",
+    "body": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "206",
+    "title": "Bloomberg: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T13:21:43.214487Z",
+    "source": "BCE",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "207",
+    "title": "Reuters: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T12:51:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "208",
+    "title": "BCE reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T12:21:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "209",
+    "title": "Fed reporta movimientos en tipos de inter\u00e9s que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T11:51:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "210",
+    "title": "Banco Mundial reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T11:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "211",
+    "title": "Banco Mundial: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T10:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "212",
+    "title": "FMI: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T10:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "213",
+    "title": "Agencia Internacional: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T09:51:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "214",
+    "title": "OCDE reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T09:21:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "215",
+    "title": "Fed: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T08:51:43.214487Z",
+    "source": "BCE",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "216",
+    "title": "Banco Mundial: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T08:21:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "217",
+    "title": "Reuters reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T07:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "218",
+    "title": "FMI: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T07:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "219",
+    "title": "Agencia Internacional reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T06:51:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "220",
+    "title": "Financial Times reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T06:21:43.214487Z",
+    "source": "Fed",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "221",
+    "title": "Reuters: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T05:51:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "222",
+    "title": "OCDE reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T05:21:43.214487Z",
+    "source": "Fed",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "223",
+    "title": "Bloomberg reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T04:51:43.214487Z",
+    "source": "OCDE",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "224",
+    "title": "Agencia Internacional: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T04:21:43.214487Z",
+    "source": "Fed",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "225",
+    "title": "FMI: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T03:51:43.214487Z",
+    "source": "Reuters",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "226",
+    "title": "BCE: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T03:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "227",
+    "title": "Bloomberg: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T02:51:43.214487Z",
+    "source": "Fed",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "228",
+    "title": "Bloomberg Economics: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T02:21:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "229",
+    "title": "Bloomberg reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T01:51:43.214487Z",
+    "source": "BCE",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "230",
+    "title": "Agencia Internacional reporta movimientos en inflaci\u00f3n que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T01:21:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "231",
+    "title": "Bloomberg Economics reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-15T00:51:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "232",
+    "title": "Bloomberg Economics: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-15T00:21:43.214487Z",
+    "source": "Reuters",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "233",
+    "title": "Bloomberg reporta movimientos en PIB que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T23:51:43.214487Z",
+    "source": "Reuters",
+    "body": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "234",
+    "title": "Bloomberg: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T23:21:43.214487Z",
+    "source": "Fed",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "235",
+    "title": "Reuters reporta movimientos en banca central que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T22:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "236",
+    "title": "Banco Mundial: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T22:21:43.214487Z",
+    "source": "BCE",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "237",
+    "title": "Financial Times reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T21:51:43.214487Z",
+    "source": "FMI",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "238",
+    "title": "Fed: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T21:21:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "239",
+    "title": "Reuters reporta movimientos en PIB que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T20:51:43.214487Z",
+    "source": "Reuters",
+    "body": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "240",
+    "title": "Fed: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T20:21:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "241",
+    "title": "Banco Mundial: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T19:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "242",
+    "title": "Bloomberg reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T19:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "243",
+    "title": "Bloomberg Economics: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T18:51:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "244",
+    "title": "Banco Mundial: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T18:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "245",
+    "title": "Fed: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T17:51:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "246",
+    "title": "Fed reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T17:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "247",
+    "title": "Bloomberg reporta movimientos en inflaci\u00f3n que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T16:51:43.214487Z",
+    "source": "Reuters",
+    "body": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "248",
+    "title": "Agencia Internacional reporta movimientos en tipos de inter\u00e9s que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T16:21:43.214487Z",
+    "source": "BCE",
+    "body": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "249",
+    "title": "Agencia Internacional reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T15:51:43.214487Z",
+    "source": "BCE",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "250",
+    "title": "Bloomberg Economics: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T15:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "251",
+    "title": "FMI reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T14:51:43.214487Z",
+    "source": "Reuters",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "252",
+    "title": "BCE: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T14:21:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "253",
+    "title": "Bloomberg Economics: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T13:51:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "254",
+    "title": "FMI: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T13:21:43.214487Z",
+    "source": "FMI",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "255",
+    "title": "Fed: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T12:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "256",
+    "title": "Agencia Internacional reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T12:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "257",
+    "title": "Bloomberg reporta movimientos en PIB que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T11:51:43.214487Z",
+    "source": "FMI",
+    "body": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "258",
+    "title": "BCE: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T11:21:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "259",
+    "title": "BCE: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T10:51:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "260",
+    "title": "Bloomberg Economics reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T10:21:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "261",
+    "title": "FMI reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T09:51:43.214487Z",
+    "source": "Financial Times",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "262",
+    "title": "Agencia Internacional: novedades sobre diplomacia con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T09:21:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Resumen de los \u00faltimos eventos sobre diplomacia y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "263",
+    "title": "Fed reporta movimientos en banca central que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T08:51:43.214487Z",
+    "source": "Fed",
+    "body": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "264",
+    "title": "Agencia Internacional reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T08:21:43.214487Z",
+    "source": "FMI",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "265",
+    "title": "Bloomberg reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T07:51:43.214487Z",
+    "source": "Reuters",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "266",
+    "title": "Fed reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T07:21:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "267",
+    "title": "OCDE reporta movimientos en materias primas que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T06:51:43.214487Z",
+    "source": "FMI",
+    "body": "Breve an\u00e1lisis sobre materias primas con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "268",
+    "title": "Financial Times: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T06:21:43.214487Z",
+    "source": "BCE",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "269",
+    "title": "Reuters: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T05:51:43.214487Z",
+    "source": "FMI",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "270",
+    "title": "Banco Mundial reporta movimientos en banca central que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T05:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre banca central con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "271",
+    "title": "Financial Times: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T04:51:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "272",
+    "title": "Reuters reporta movimientos en tipos de inter\u00e9s que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T04:21:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "273",
+    "title": "Reuters reporta movimientos en PIB que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T03:51:43.214487Z",
+    "source": "FMI",
+    "body": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "274",
+    "title": "Bloomberg reporta movimientos en comercio internacional que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T03:21:43.214487Z",
+    "source": "BCE",
+    "body": "Breve an\u00e1lisis sobre comercio internacional con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "275",
+    "title": "Banco Mundial: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T02:51:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "276",
+    "title": "OCDE: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T02:21:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "277",
+    "title": "Agencia Internacional: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T01:51:43.214487Z",
+    "source": "Reuters",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "278",
+    "title": "OCDE: novedades sobre elecciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T01:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre elecciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "279",
+    "title": "FMI reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-14T00:51:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "280",
+    "title": "Agencia Internacional: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-14T00:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "281",
+    "title": "Banco Mundial: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-13T23:51:43.214487Z",
+    "source": "Fed",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "282",
+    "title": "FMI reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-13T23:21:43.214487Z",
+    "source": "BCE",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "283",
+    "title": "Agencia Internacional: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-13T22:51:43.214487Z",
+    "source": "FMI",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "284",
+    "title": "Agencia Internacional: novedades sobre tensiones geopol\u00edticas con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-13T22:21:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre tensiones geopol\u00edticas y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "285",
+    "title": "BCE reporta movimientos en inflaci\u00f3n que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-13T21:51:43.214487Z",
+    "source": "FMI",
+    "body": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "286",
+    "title": "OCDE reporta movimientos en PIB que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-13T21:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "287",
+    "title": "OCDE reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-13T20:51:43.214487Z",
+    "source": "OCDE",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "288",
+    "title": "Agencia Internacional: novedades sobre tratados con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-13T20:21:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Resumen de los \u00faltimos eventos sobre tratados y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "289",
+    "title": "Bloomberg reporta movimientos en tipos de inter\u00e9s que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-13T19:51:43.214487Z",
+    "source": "Reuters",
+    "body": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "290",
+    "title": "Bloomberg reporta movimientos en PIB que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-13T19:21:43.214487Z",
+    "source": "Agencia Internacional",
+    "body": "Breve an\u00e1lisis sobre PIB con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "291",
+    "title": "Agencia Internacional: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-13T18:51:43.214487Z",
+    "source": "FMI",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "292",
+    "title": "Banco Mundial reporta movimientos en tipos de inter\u00e9s que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-13T18:21:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Breve an\u00e1lisis sobre tipos de inter\u00e9s con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "293",
+    "title": "Reuters reporta movimientos en inflaci\u00f3n que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-13T17:51:43.214487Z",
+    "source": "OCDE",
+    "body": "Breve an\u00e1lisis sobre inflaci\u00f3n con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "294",
+    "title": "Banco Mundial reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-13T17:21:43.214487Z",
+    "source": "Bloomberg",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "295",
+    "title": "Agencia Internacional: novedades sobre sanciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-13T16:51:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre sanciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "296",
+    "title": "Reuters reporta movimientos en empleo que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-13T16:21:43.214487Z",
+    "source": "Bloomberg Economics",
+    "body": "Breve an\u00e1lisis sobre empleo con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "297",
+    "title": "Financial Times reporta movimientos en mercados burs\u00e1tiles que impactan mercados globales",
+    "summary": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados.",
+    "category": "Econom\u00eda Internacional",
+    "datetime": "2025-11-13T15:51:43.214487Z",
+    "source": "Banco Mundial",
+    "body": "Breve an\u00e1lisis sobre mercados burs\u00e1tiles con datos preliminares y reacciones de mercados. Texto extendido para demo."
+  },
+  {
+    "id": "298",
+    "title": "Bloomberg: novedades sobre coaliciones con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-13T15:21:43.214487Z",
+    "source": "Financial Times",
+    "body": "Resumen de los \u00faltimos eventos sobre coaliciones y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "299",
+    "title": "Financial Times: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-13T14:51:43.214487Z",
+    "source": "FMI",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  },
+  {
+    "id": "300",
+    "title": "OCDE: novedades sobre crisis gubernamental con implicancias internacionales",
+    "summary": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas.",
+    "category": "Pol\u00edtica Internacional",
+    "datetime": "2025-11-13T14:21:43.214487Z",
+    "source": "OCDE",
+    "body": "Resumen de los \u00faltimos eventos sobre crisis gubernamental y perspectivas pol\u00edticas. Texto extendido para demo."
+  }
+]
